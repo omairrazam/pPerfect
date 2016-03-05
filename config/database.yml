@@ -16,7 +16,7 @@ development:
   adapter:  postgresql
   host:     localhost
   encoding: unicode
-  database: rails-foundation_development
+  database: pictureperfect
   pool:     5
   username: pictureperfect
   password: root
@@ -44,7 +44,7 @@ test:
   adapter:  postgresql
   host:     localhost
   encoding: unicode
-  database: rails-foundation_test
+  database: pictureperfect
   pool:     5
   username: pictureperfect
   password: root
@@ -54,7 +54,7 @@ production:
   adapter:  postgresql
   host:     localhost
   encoding: unicode
-  database: rails-foundation_production
+  database: pictureperfect
   pool:     5
   username: pictureperfect
   password: root
